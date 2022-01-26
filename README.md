@@ -1,4 +1,4 @@
-### Hi there 👋
+### 😎 Hello World !
 - 🔭 I’m currently working on mobile development
 - 🌱 I’m currently learning Java & Flutter
 - 📫 How to reach me: alpertunademirbas@gmail.com
