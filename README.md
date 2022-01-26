@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning java & flutter
+- 🔭 I’m currently working on mobile development
+- 🌱 I’m currently learning Java & Flutter
 - 📫 How to reach me: alpertunademirbas@gmail.com
 <!--
 **alperdbs/alperdbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
